@@ -1,6 +1,3 @@
-
-
-
 IncludeFile "DShowMedia.pbi"
 
 Global Window_Project
@@ -156,6 +153,7 @@ Procedure Window_Project_RunLoop ()
   
 EndProcedure
 ; IDE Options = PureBasic 4.60 Beta 2 (Windows - x86)
-; CursorPosition = 1
+; CursorPosition = 117
+; FirstLine = 54
 ; Folding = ER9
 ; EnableXP
