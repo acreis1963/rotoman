@@ -7,7 +7,7 @@
   <section name="data">
     <explorer view="..\..\..\Documents\" pattern="0"/>
     <log show="1"/>
-    <lastopen date="2011-04-17 17:15" user="seb" host="SEB-PC"/>
+    <lastopen date="2011-04-17 17:22" user="seb" host="SEB-PC"/>
   </section>
   <section name="files">
     <file name="Main.pb">
@@ -16,7 +16,7 @@
     </file>
     <file name="Funktions.pb">
       <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
-      <fingerprint md5="e768eeb9c1db909ff0bfc89f2b3d4cc2"/>
+      <fingerprint md5="ce184a7d81b6d1b8457b2bc06656f36c"/>
     </file>
     <file name="DshowMedia.pbi">
       <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
