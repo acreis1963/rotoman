@@ -1,0 +1,13 @@
+PureFORM_Project_Begin
+Project¶Main
+SaveAsCode¶Main.pb
+Window¶1¶#Window_Main¶348782592¶#PB_Window_SystemMenu|#PB_Window_MinimizeGadget|#PB_Window_TitleBar|#PB_Window_Tool¶Rotoman¶102¶30¶227¶89¶0¶10¶10¶0¶5000¶5000¶0¶-1¶0¶0¸Fichier¸¸19¸#Menu_Window_0_Fichier¸·1¸Nouveau¸¸4¸#Menu_Window_0_Nouveau¸·1¸Ouvrir¸¸5¸#Menu_Window_0_Ouvrir¸·1¸Enregistrer¸¸6¸#Menu_Window_0_Enregistrer¸·1¸Enregistrer sous¸¸7¸#Menu_Window_0_EnregistrerSous¸·1¸Quitter¸¸8¸#Menu_Window_0_Quitter¸·0¸Edition¸¸9¸#Menu_Window_0_Edition¸·1¸Début¸¸12¸#Menu_Window_0_Debut¸·1¸Stop¸¸14¸#Menu_Window_Main_Stop¸·1¸Lecture¸¸15¸#Menu_Window_Main_Lecture¸·1¸Fin¸¸13¸#Menu_Window_0_Fin¸·1¸Image précédente¸¸10¸#Menu_Window_0_ImagePrecedente¸·1¸Image suivante¸¸11¸#Menu_Window_0_ImageSuivante¸·0¸Projet¸¸16¸#Menu_Window_Main_Projet¸·1¸Configuration¸¸19¸#Menu_Window_Main_Configuration¸¶\6¸¸3·\8¸¸2·\7¸¸1·\9¸¸10·Fichiers\Debut.bmp¸¸5·Fichiers\Stop.bmp¸¸7·Fichiers\Lecture.bmp¸¸8·Fichiers\Fin.bmp¸¸10·Fichiers\Previous.bmp¸¸6·Fichiers\Next.bmp¸¸9¶
+Window¶2¶#Window_Tools¶349044736¶#PB_Window_SystemMenu|#PB_Window_SizeGadget|#PB_Window_MinimizeGadget|#PB_Window_TitleBar|#PB_Window_Tool¶Outils¶76¶188¶120¶233¶0¶10¶10¶0¶5000¶5000¶0¶-1¶0¶¶¶
+ButtonGadget¶2¶#Button_tool_ligne¶2¶-1¶-1¶0¶0¶0¶0¶0¶¶Ligne¶¶-1¶0¶¶¶0¶0¶0¶0¶0¶15¶0¶70¶25¶0¶0¶0¶0¶0¶0·0·0·0·0·0·0¶0¶-1¶-1¶-1¶-1¶¶0¶¶0¶0
+Window¶3¶#Window_ProjectConfig¶348913664¶#PB_Window_SizeGadget|#PB_Window_TitleBar|#PB_Window_SystemMenu¶Configuration du projet¶454¶116¶400¶400¶0¶10¶10¶0¶5000¶5000¶0¶-1¶0¶¶¶
+ButtonGadget¶3¶#Button_Browse¶3¶-1¶-1¶0¶0¶0¶0¶0¶¶...¶¶-1¶0¶¶¶0¶0¶0¶0¶0¶275¶20¶25¶20¶0¶0¶0¶0¶0¶0·0·0·0·0·0·0¶0¶-1¶-1¶-1¶-1¶¶0¶¶0¶0
+TextGadget¶4¶#Text_3¶3¶-1¶-1¶0¶0¶26¶0¶0¶¶Vidéo :¶¶-1¶0¶¶¶0¶0¶0¶0¶0¶15¶20¶35¶20¶0¶0¶0¶0¶0¶0·0·0·0·0·0·1¶0¶-1¶-16777216¶-1¶-1¶¶0¶¶0¶0
+TextGadget¶5¶#Text_VideoPath¶3¶-1¶-1¶0¶0¶26¶0¶131072¶#PB_Text_Border¶¶¶-1¶0¶¶¶0¶0¶0¶0¶0¶55¶20¶220¶20¶0¶0¶0¶0¶0¶0·0·0·0·0·0·1¶0¶-1¶-16777216¶-1¶-1¶¶0¶¶0¶0
+ButtonGadget¶6¶#Button_ok¶3¶-1¶-1¶0¶0¶0¶0¶0¶¶OK¶¶-1¶0¶¶¶0¶0¶0¶0¶0¶50¶355¶70¶20¶0¶0¶0¶0¶0¶0·0·0·0·0·0·0¶0¶-1¶-1¶-1¶-1¶¶0¶¶0¶0
+ButtonGadget¶7¶#Button_Annuler¶3¶-1¶-1¶0¶0¶0¶0¶0¶¶Annuler¶¶-1¶0¶¶¶0¶0¶0¶0¶0¶270¶355¶70¶20¶0¶0¶0¶0¶0¶0·0·0·0·0·0·0¶0¶-1¶-1¶-1¶-1¶¶0¶¶0¶0
+PureFORM_Project_End

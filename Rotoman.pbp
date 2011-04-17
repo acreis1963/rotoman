@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 4.60 Beta 2 (Windows - x86)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Rotoman"/>
+  </section>
+  <section name="data">
+    <explorer view="..\..\..\Documents\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2011-04-17 12:59" user="seb" host="SEB-PC"/>
+  </section>
+  <section name="files">
+    <file name="Main.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="3d2f0dc35aee81f58057064866b19f61"/>
+    </file>
+    <file name="Funktions.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="e768eeb9c1db909ff0bfc89f2b3d4cc2"/>
+    </file>
+    <file name="DshowMedia.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="67d7a34046b28b45eab275d2c4ba5f67"/>
+    </file>
+    <file name="Config.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="e221a20d467d56869ee18d1794ef678b"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Cible par défaut" enabled="1" default="1">
+      <inputfile value="Main.pb"/>
+      <outputfile value=""/>
+      <options xpskin="1"/>
+    </target>
+  </section>
+</project>
